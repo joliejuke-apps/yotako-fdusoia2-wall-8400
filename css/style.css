@@ -1,0 +1,96 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.iphonexxs11pro1row0 {
+  display: flex;
+  margin-left: 13.333333333333334vw;
+  margin-top: 13.333333333333334vw;
+  width: 57.733333333333334vw
+}
+.iphonexxs11pro1row0col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 50.93333333333333vw;
+  height: 56.53333333333333vw;
+  flex-direction: column;
+  flex-grow: 1
+}
+.style1 {
+  color: #707070;
+  font-family: roboto-1,serif;
+  font-size: 21.333333333333332vw;
+  line-height: 28.266666666666666vw;
+  margin-left: 0;
+  margin-top: 0;
+  z-index: 0
+}
+.style2 {
+  background-color: #fff;
+  border-left: .26666666666666666vw solid #707070;
+  border-right: .26666666666666666vw solid #707070;
+  border-top: .26666666666666666vw solid #707070;
+  border-bottom: .26666666666666666vw solid #707070;
+  margin-left: 0;
+  margin-top: -42.93333333333333vw;
+  width: 50.93333333333333vw;
+  height: 1.0666666666666667vw;
+  z-index: 1
+}
+.style5 {
+  background-color: red;
+  border-left: 1.0666666666666667vw solid red;
+  border-right: 1.0666666666666667vw solid red;
+  border-top: 1.0666666666666667vw solid red;
+  border-bottom: 1.0666666666666667vw solid red;
+  margin-left: 45.733333333333334vw;
+  margin-top: -34.266666666666666vw;
+  width: 0;
+  height: 13.333333333333334vw;
+  z-index: 4
+}
+.style3,
+.style4,
+.style6 {
+  margin-top: .13333333333333333vw
+}
+.style4 {
+  background-color: #707070;
+  border-left: 1.0666666666666667vw solid #707070;
+  border-right: 1.0666666666666667vw solid #707070;
+  border-top: 1.0666666666666667vw solid #707070;
+  border-bottom: 1.0666666666666667vw solid #707070;
+  width: 0;
+  height: 7.2vw;
+  z-index: 3;
+  margin-left: 1.7333333333333334vw
+}
+.style3,
+.style6 {
+  margin-left: 2.4vw
+}
+.style3 {
+  width: .26666666666666666vw;
+  border-left: 1.0666666666666667vw solid #707070;
+  border-right: 1.0666666666666667vw solid #707070;
+  border-top: 1.0666666666666667vw solid #707070;
+  border-bottom: 1.0666666666666667vw solid #707070;
+  height: 56.53333333333333vw;
+  z-index: 2
+}
+.style6 {
+  background-color: red;
+  border-left: 1.0666666666666667vw solid red;
+  border-right: 1.0666666666666667vw solid red;
+  border-top: 1.0666666666666667vw solid red;
+  border-bottom: 1.0666666666666667vw solid red;
+  width: 0;
+  height: 28.266666666666666vw;
+  z-index: 5
+}
+.breakpoint-0 {
+  display: block
+}
